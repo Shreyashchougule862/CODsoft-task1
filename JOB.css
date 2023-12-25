@@ -1,0 +1,148 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.om {
+    height: 100vh;
+    width: 99.3vw;
+    background-color: white;
+}
+
+#oxx {
+    background: transparent !important;
+    height: 11.5vh;
+    color: white !important;
+}
+
+#navbarNav {
+    display: flex !important;
+    justify-content: center !important;
+}
+
+#Degree {
+    background-color: #1488ef !important;
+    border: 1px solid #1488ef;
+    width: 5vw;
+    color: white !important;
+}
+
+.AA {
+    height: 85vh;
+    width: 99.3vw;
+    background-color: #1488ef;
+}
+
+.sms {
+
+    display: flex !important;
+    justify-content: flex-end !important;
+
+
+}
+
+#oscr {
+    background-color: #01d365 !important;
+}
+
+#oppp {
+    color: white !important;
+    /* display: flex;
+    justify-content: center;
+    align-items: flex-start; */
+} 
+
+#ok {
+
+    font-size: 40px !important;
+    margin-left: 30% !important;
+}
+
+#okk {
+    margin-left: 3%;
+}
+
+#Degree:hover {
+    cursor: pointer;
+}
+
+#ossamk {
+    height: 73.5vh;
+    width: 99.3vw;
+}
+
+#shree {
+    height: 73.5vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    /* border: 1px solid red; */
+    flex-direction: column;
+}
+
+.omk {
+    color: white;
+    font-size: 50px !important;
+    font-weight: 600;
+    padding-left: 7%;
+}
+
+.osmmmm {
+    padding-top: 0%;
+}
+
+.huu {
+    color: white;
+    font-size: 70px !important;
+
+}
+
+.omg {
+    font-size: 23px !important;
+}
+
+#omop {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    /* border: 1px solid red; */
+
+}
+
+#mgrr {
+    padding-bottom: 1%;
+}
+
+#amm {
+    margin-left: 60% !important;
+}
+#pra{
+    margin-top: 2% !important;
+}
+#ddd{
+    background: transparent !important;
+    display: inline-block !important;
+    
+}
+.aill{
+    font-size: 40px !important;
+    color: white !important;
+    
+}
+.sur{
+    font-size: 40px !important;
+    
+    color: white;
+}
+.lol{
+    font-size: 10px !important;
+}
+#ksk{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+#rtr{
+    padding-left: 7% !important;
+}
